@@ -1,12 +1,13 @@
 # Hi there! 👋 I'm Samuel Ayomide Adeosun
 
-Welcome to my GitHub profile! I'm a mathematical biologist focused on building clean, efficient, and impactful solutions.
+Welcome to my GitHub profile! I'm a mathematical biologist focused on ...
 
 ## 🚀 About Me
 
 I'm interested in:
-- **Mathematical biology 
-- **Epidemiology** - did this during my masters
+- **Stochastic models**
+- **Population genetics**
+- **Epidemiology**
 
 ## 💻 Tech Stack
 
@@ -24,8 +25,8 @@ I'm interested in:
 ## 🌐 Let's Connect
 
 - **Portfolio:** [samueladeosun.github.io](https://samueladeosun.github.io)
-- **LinkedIn:** []
-- **Email:** [your-email@example.com]
+- **LinkedIn:** [www.linkedin.com/in/samuel-ayomide-adeosun-5943521a7]
+- **Email:** [samuel.adeosun@stochastik.uni-freiburg.de]
 - **Twitter/X:** [@sammy_juveh]
 - **Instagram:** [@sammy_juveh]
 
@@ -39,7 +40,7 @@ I'm currently working on:
 
 ## 💡 Fun Facts
 
-- 🔍 I love to read and find things out
+- 🔍 I like to read and find things out
 - 📚 Always learning and exploring
 - 🎮 [Travelling and speaking to strangers]
 - ☕ Powered by coffee and curiosity
