@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Samuel Ayomide Adeosun
 
-Welcome to my GitHub profile! I'm a mathematical biologist focused on ...
+Welcome to my GitHub profile! I'm a mathematical biologist working on stochastic population genetics
 
 ## 🚀 About Me
 
