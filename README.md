@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Samuel Ayomide Adeosun
 
-Welcome to my GitHub profile! I'm a mathematical biologist working on stochastic population genetics
+Welcome to my GitHub profile! I'm a biomathematician working on stochastic population genetics
 
 ## 🚀 About Me
 
@@ -38,13 +38,4 @@ I'm currently working on:
 - Markov processes
 - Martingale problems
 
-## 💡 Fun Facts
 
-- 🔍 I like to read and find things out
-- 📚 Always learning and exploring
-- 🎮 [Travelling and speaking to strangers]
-- ☕ Powered by curiosity
-
----
-
-**Last Updated:** June 2026
