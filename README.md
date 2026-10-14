@@ -1,41 +1,34 @@
-# Hi there! 👋 I'm Samuel Ayomide Adeosun
+# Samuel Ayomide Adeosun
+Biomathematician · Researcher in stochastic population genetics
 
-Welcome to my GitHub profile! I'm a biomathematician working on stochastic population genetics
+I am a researcher focused on stochastic models in population genetics and epidemiology. My work explores Markov processes, martingale problems, fast–slow dynamics, and mathematical modeling to understand evolutionary and ecological systems.
 
-## 🚀 About Me
+## Highlights
+- Research areas: stochastic population genetics, epidemiology, and mathematical biology
+- Methods: stochastic processes, Markov models, martingale techniques, and computational modeling
+- Tools: Python, Git, GitHub, VS Code
 
-I'm interested in:
-- **Stochastic models**
-- **Population genetics**
-- **Epidemiology**
+## Current research focus
+- Modeling transposable element (TE) abundance
+- Fast–slow processes in population dynamics
+- Markov process formulations and stochastic analysis
+- Mathematical and computational tools for biological systems
 
-## 💻 Tech Stack
+## Tech stack
+- Languages: Python
+- Tools: Git, GitHub, VS Code
 
-**Languages:**
-- Python
-
-**Tools & Frameworks:**
-- Git & GitHub
-- VS Code
-
-## 📊 GitHub Stats
-
+## GitHub Stats
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samueladeosun&show_icons=true&theme=radical)
 
-## 🌐 Let's Connect
+## Current work
+I am developing mathematical and simulation-based approaches to study TE abundance and related stochastic phenomena in population genetics. I am particularly interested in building models that connect theory with biological interpretation and data-driven insight.
 
-- **Portfolio:** [samueladeosun.github.io](https://samueladeosun.github.io)
-- **LinkedIn:** [www.linkedin.com/in/samuel-ayomide-adeosun-5943521a7]
-- **Email:** [samuel.adeosun@stochastik.uni-freiburg.de]
-- **Twitter/X:** [@sammy_juveh]
-- **Instagram:** [@sammy_juveh]
+## Get in touch
+- Portfolio: [samueladeosun.github.io](https://samueladeosun.github.io)
+- LinkedIn: [Samuel Ayomide Adeosun](https://www.linkedin.com/in/samuel-ayomide-adeosun-5943521a7)
+- Email: [samuel.adeosun@stochastik.uni-freiburg.de](mailto:samuel.adeosun@stochastik.uni-freiburg.de)
+- X (Twitter): [@sammy_juveh](https://twitter.com/sammy_juveh)
+- Instagram: [@sammy_juveh](https://www.instagram.com/sammy_juveh)
 
-## 🎯 Current Focus
-
-I'm currently working on:
-- modelling TE abundance
-- fast-slow processes
-- Markov processes
-- Martingale problems
-
-
+---
